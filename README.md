@@ -14,7 +14,7 @@ Seed the file
 
 Use command "npm start" 
 
-#Contributors
+# Contributors
 
 Shane - github.com/shanobueno
 
